@@ -24,6 +24,7 @@ git clone https://github.com/Sai-Rahul-KSN/RAG_PROJECT.git
 cd RAG_PROJECT.git
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
+
 export OPENAI_API_KEY="..."  # your OpenAI key 
 ```
 ### Building the Index
